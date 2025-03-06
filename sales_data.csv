@@ -1,0 +1,13 @@
+id,SalePersonFName,SalePersonLName,ProductName,ItemsSold,SoldPrice,SoldDate,City,State,Country,Region
+1,Aleena,Hiroshi,Laptop,2,800,5/25/2015,Tokyo,Aichi,Japan,Asia
+2,Najaf,Shogo,Computer,1,300,6/20/2015,Osaka,Chiba,Japan,Asia
+3,,Singh,TV,2,900,6/21/2015,ChandiGar,Punjab,India,Asia
+4,Chirag,Patel,Cell Phone,5,1500,6/23/2015,AhmadAbad,Gujrat,India,Asia
+5,Aamir,Shahzad,TV,1,700,7/15/2015,Charlotte,North Carolina,USA,North America
+6,M,Raza,Cell Phone,2,800,7/15/2015,Charlotte,North Carolina,USA,North America
+7,Tamara,Tony,Cell Phone,2,1200,3/3/2015,Frankfurt,Hesse,Germany,Europe
+8,Rita,Roger,Laptop,7,2100,4/11/2015,Glasgow,Scotland,UK,Europe
+9,Petra,Henry,TV,10,5000,4/8/2015,Glasgow,Scotland,UK,Europe
+10,Christy,Ladson,TV,3,1600,4/2/2015,High Point,North Carolina,USA,North America
+11,John,Rivers,Laptop,5,2400,3/9/2014,Jersey City,New Jersey,USA,North America
+12,,Rivers,Laptop,5,2400,3/9/2014,Jersey City,New Jersey,USA,Africa

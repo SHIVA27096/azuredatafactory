@@ -1,0 +1,3 @@
+input/cities.txt
+input/flowers1.txt
+input/sample1.json
